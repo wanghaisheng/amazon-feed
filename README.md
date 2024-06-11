@@ -3,7 +3,7 @@ Inspired from https://github.com/leonghui/amazon-feed, next plan is
 2. support tiktok,douyin,xiaohongshu
 
 
-# big picture
+# big picture about keyword ecommerce tracking and  competition analysis tool
 
 input a keyword ,output all ecommerce listing as json feed for later tracking.
 eg last month sales increment to know which is spiking product in which platform
