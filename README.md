@@ -5,9 +5,11 @@ Inspired from https://github.com/leonghui/amazon-feed, next plan is
 
 # big picture about keyword ecommerce tracking and  competition analysis tool
 
-input a keyword ,output all ecommerce listing as json feed for later tracking.
-eg last month sales increment to know which is spiking product in which platform
-eg specific seller sales in last month total if he got more than 1 listings
+
+Overview of the tool for monitoring keyword-focused ecommerce tracking and analyzing competition on platforms such as amazon,etsy,taobao,pdd,TikTok, Douyin, and Xiaohongshu.
+
+Enter a keyword, and receive a list of all ecommerce listings in JSON format for future monitoring. For instance, this can help pinpoint which products saw an increase in sales last month, indicating a trend, and which platforms are showing potential for certain products. Additionally, it can provide information on the total sales of a specific seller from last month, including the number of listings they have.
+
 
 
 ##
