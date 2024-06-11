@@ -11,6 +11,11 @@ Overview of the tool for monitoring keyword-focused ecommerce tracking and analy
 Enter a keyword, and receive a list of all ecommerce listings in JSON format for future monitoring. For instance, this can help pinpoint which products saw an increase in sales last month, indicating a trend, and which platforms are showing potential for certain products. Additionally, it can provide information on the total sales of a specific seller from last month, including the number of listings they have.
 
 
+## use off the shelf feed tool to track 10000+ products 
+
+price 
+
+
 
 ##
 # amazon-feed
