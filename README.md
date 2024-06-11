@@ -1,3 +1,16 @@
+Inspired from https://github.com/leonghui/amazon-feed, next plan is 
+1. python to ts for easily deploy in vercel like or just chrome extension even client side without backend request.
+2. support tiktok,douyin,xiaohongshu
+
+
+# big picture
+
+input a keyword ,output all ecommerce listing as json feed for later tracking.
+eg last month sales increment to know which is spiking product in which platform
+eg specific seller sales in last month total if he got more than 1 listings
+
+
+##
 # amazon-feed
 A simple Python script to generate a [JSON Feed](https://github.com/brentsimmons/JSONFeed) for search results on [Amazon](https://www.amazon.com).
 
